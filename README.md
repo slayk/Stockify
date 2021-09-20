@@ -59,4 +59,5 @@ You enter the name of the company you have invested in or want to invest in. Sel
 
 ***Company Chosen: APPL***
 
-![APPL_Swing](https://user-images.githubusercontent.com/68421513/133965248-363deaf0-73aa-4fd0-9b98-6fef5ac26452.jpg)
+![APPL_Swing](https://user-images.githubusercontent.com/68421513/133965497-402492d4-52cd-4bab-9cc8-1060c67e7608.jpg)
+
