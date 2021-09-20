@@ -15,8 +15,11 @@ You enter the name of the company you have invested in or want to invest in. Sel
   - If the sentiment analysis of the tweets are overall negative, then the application will suggest you not to invest in the market for the company.
 - Shares a news related to the company - Headline, Brief and the whole news link. The number of news received can be altered in the program.
 
+---
 
 ***Here's the User Interface of the Stockify Application:***
+
+***Made Using Tkinter***
 
 ![front](https://user-images.githubusercontent.com/68421513/133963429-d969c97e-5c59-48c0-9399-87b703b01366.jpg)
 
@@ -45,6 +48,16 @@ You enter the name of the company you have invested in or want to invest in. Sel
   - Read about it and generate your consumer key, consumer secret, access token and access token secret, here: https://www.tweepy.org/
 - Twilio ( For Messaging )
   - Read about it and generate your account sid and auth token, here: https://www.twilio.com/
+
+---
+
+**Important Points To Be Kept In Mind:**
+
+- If the user has not entered any company stock name in the entry section:
+  - User receives an "Error" pop-up.
+  - User receives a "Warning" pop-up as the Stock API being used is free and has its limitations. The user can only fetch Stock Data for Companies based in USA and Canada.
+- If the user has entered a company stock name based in any country apart from USA or Canada:
+  - User receives a "Warning" pop-up as the Stock API being used is free and has its limitations. The user can only fetch Stock Data for Companies based in USA and Canada.
 
 ---
 
