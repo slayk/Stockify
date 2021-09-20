@@ -44,7 +44,7 @@ You enter the name of the company you have invested in or want to invest in. Sel
   - Read about it and generate your API key, here: https://www.alphavantage.co/
 - News API (For Fetching News Data )
   - Read about it and generate your API key, here: https://newsapi.org/
-- Tweepy ( For fetching Tweets )
+- Tweepy ( For Fetching Tweets )
   - Read about it and generate your consumer key, consumer secret, access token and access token secret, here: https://www.tweepy.org/
 - Twilio ( For Messaging )
   - Read about it and generate your account sid and auth token, here: https://www.twilio.com/
